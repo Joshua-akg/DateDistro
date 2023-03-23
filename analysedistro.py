@@ -29,8 +29,8 @@ def main():
     # remove the first row
     df = df.iloc[1:]
 
-    print(df.iloc[1402,0])
-    print(df.iloc[1463,0])
+    print(df.iloc[1286,0])
+    print(df.iloc[1474,0])
     print()
     print(df.iloc[940,0])
     print(df.iloc[1031,0])
@@ -51,8 +51,8 @@ def main():
     # print(julian_dates[0])
 
     print("printing dates")
-    print(dates[1402])
-    print(dates[1463])
+    print(dates[1293])
+    print(dates[1474])
     print()
     print(dates[940])
     print(dates[1031])
